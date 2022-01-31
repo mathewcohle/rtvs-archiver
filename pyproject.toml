@@ -4,6 +4,11 @@ version = "0.1.0"
 description = ""
 authors = ["Mathew Cohle <mathewcohle@protonmail.com>"]
 
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/mathewcohle/rtvs-archiver"
+repository = "https://github.com/mathewcohle/rtvs-archiver"
+
 [tool.poetry.scripts]
 rtvs_archiver = "rtvs_archiver.cli:main"
 
